@@ -48,6 +48,7 @@ nav a:hover {
 }
 
 /* Hero */
+
 .hero {
   height: 90vh;
   background: url('images/New\ Project\ \(3\).png') center/cover no-repeat;
@@ -56,6 +57,7 @@ nav a:hover {
   justify-content: center;
   text-align: center;
   padding: 0 20px;
+  
 }
 
 .hero-text h2 {
@@ -77,6 +79,8 @@ nav a:hover {
   text-decoration: none;
   border-radius: 5px;
   font-weight: 600;
+  
+
 }
 
 .btn:hover {
